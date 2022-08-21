@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 #### Bio
 Estudante de programação e desenvolvimento de apps e sites além de gestor e coordenador de operações administrativas e financeiras. 
@@ -7,6 +7,7 @@ Maior experiência em PHP e CSS e entuasta de desenvolvimento mobile.
 #### Contatos
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/adriano-santos-96652a158/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](adriano_santos@id.uff.br)
 
 #### Linguagens e Api's
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
