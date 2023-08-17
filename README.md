@@ -29,7 +29,7 @@ Maior experiência em PHP e CSS e entuasta de desenvolvimento mobile.
 
 [![Readme Card](https://github-readme-stats-pr3z.vercel.app/api/pin/?username=oadrianosantos&repo=jdev.github.io)](https://github.com/oadrianosantos/jdev.github.io)
 
-
+<img aling= "left" alt="oadrianosantos" src="https://github-readme-stats-pr3z.vercel.app/api?username=oadrianosantos$show_icons=true&hide_border=true">
 <!--
 **oadrianosantos/oadrianosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
