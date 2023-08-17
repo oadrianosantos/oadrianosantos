@@ -25,11 +25,10 @@ Maior experiência em PHP e CSS e entuasta de desenvolvimento mobile.
 ![ph](	https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![pr](	https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats-pr3z.vercel.app/api?username=oadrianosantos)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oadrianosantos)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats-pr3z.vercel.app/api/pin/?username=oadrianosantos&repo=jdev.github.io)](https://github.com/oadrianosantos/jdev.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oadrianosantos&repo=jdev.github.io)](https://github.com/oadrianosantos/jdev.github.io)
 
-<img aling= "left" alt="oadrianosantos" src="https://github-readme-stats-pr3z.vercel.app/api?username=oadrianosantos$show_icons=true&hide_border=true">
 <!--
 **oadrianosantos/oadrianosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
